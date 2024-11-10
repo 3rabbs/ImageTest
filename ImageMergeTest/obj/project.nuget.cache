@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "COKClIi2tjU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dlopez\\Documents\\Visual Studio 2022\\Projects\\ImageMergeTest\\ImageMergeTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dlopez\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\dlopez\\.nuget\\packages\\system.drawing.common\\8.0.8\\system.drawing.common.8.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
